@@ -1,0 +1,1 @@
+Change Data Capture (CDC) in SQL Server Integration Services (SSIS) is a feature designed to track and capture changes (INSERT, UPDATE, DELETE) made to data in SQL Server tables. It helps in efficiently identifying incremental data changes, making it useful for ETL (Extract, Transform, Load) processes, especially in data warehousing and synchronization scenarios.
